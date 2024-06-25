@@ -1,0 +1,13 @@
+canvas {
+  display: block;
+  background-color: #f2f2f2;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
